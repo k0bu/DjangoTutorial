@@ -3,8 +3,8 @@
 Test if others won't be modified.
 
 testing markdown tex equation
-$\frac{xf \pm \nu }{{\bf test}} $
+$$\frac{xf \pm \nu }{{\bf test}} $$
 
-$\therefore$
+$$\therefore$$
 you can use therefore!!!!
 I'm crying as hell... ;_;
